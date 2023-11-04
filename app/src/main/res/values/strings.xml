@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="facebook_app_id">1745950372485706</string>
+    <string name="fb_login_protocol_scheme">fb1745950372485706</string>
+    <string name="facebook_client_token">af8079ceab67e4faff59bac618c21567</string>
+    <string name="name">Name : %1$s</string>
+    <string name="platform_facebook">Platform : Facebook</string>
+    <string name="platform_google">Platform : Google</string>
+</resources>

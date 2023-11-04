@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "144982510399",
+    "project_id": "unorthodoxassignment",
+    "storage_bucket": "unorthodoxassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144982510399:android:c919ed5455ba9312a7218a",
+        "android_client_info": {
+          "package_name": "com.bharath.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144982510399-9o9pa10idsvdi17b55lqrnlj8kbbipgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjiCTj6KcjYcEAYfj3ekvjCctmNJ8ho8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144982510399-9o9pa10idsvdi17b55lqrnlj8kbbipgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144982510399:android:2e4105f449345695a7218a",
+        "android_client_info": {
+          "package_name": "com.example.unorthodoxassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144982510399-cl560oit7b3t66t7h67lqb60vdg7nbk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unorthodoxassignment",
+            "certificate_hash": "db148cec34d97bcc796158c2f5bd05fabea3bfc2"
+          }
+        },
+        {
+          "client_id": "144982510399-9o9pa10idsvdi17b55lqrnlj8kbbipgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtjiCTj6KcjYcEAYfj3ekvjCctmNJ8ho8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144982510399-9o9pa10idsvdi17b55lqrnlj8kbbipgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
